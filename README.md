@@ -17,11 +17,10 @@
 <!-- STACKOVERFLOW:END -->
 
 
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
-
 <p align="center">
 <a href="https://linkedin.com/in/iafanasov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iafanasov" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/iafanasov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="iafanasov" height="30" width="30" /></a>
 <a href="https://medium.com/@igorafanasov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@igorafanasov" height="30" width="30" /></a>
 </p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
