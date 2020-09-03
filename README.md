@@ -15,6 +15,11 @@
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for How to call describe or it function in afterEach function in jasmine](https://stackoverflow.com/questions/63663643/how-to-call-describe-or-it-function-in-aftereach-function-in-jasmine/63665198#63665198)
+- [Answer by IAfanasov for PrimeNG pie chart randomly displays, and displays on change of resolution](https://stackoverflow.com/questions/63517675/primeng-pie-chart-randomly-displays-and-displays-on-change-of-resolution/63518423#63518423)
+- [Answer by IAfanasov for Angular, how to subscribe nested JSON object?](https://stackoverflow.com/questions/63504426/angular-how-to-subscribe-nested-json-object/63504532#63504532)
+- [implicit property validation with class-validator library](https://stackoverflow.com/questions/63466254/implicit-property-validation-with-class-validator-library)
+- [Answer by IAfanasov for Angular close modals for 401 response](https://stackoverflow.com/questions/63452186/angular-close-modals-for-401-response/63456835#63456835)
 <!-- STACKOVERFLOW:END -->
 
 
