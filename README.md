@@ -9,6 +9,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing Angular HTTP Communication](https://itnext.io/testing-angular-http-communication-9a120a10da18?source=rss-fe4bb573648b------2)
+- [My short journey from TypeScript to JavaScript with JSDoc and back](https://medium.com/@igorafanasov/my-short-journey-from-typescript-to-javascript-with-jsdoc-and-back-c9ddc0471b5a?source=rss-fe4bb573648b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### StackOverflow Activity
