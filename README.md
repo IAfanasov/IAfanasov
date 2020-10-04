@@ -12,11 +12,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for Angular Testing: Get HTML Element inside child component that uses ng-content](https://stackoverflow.com/questions/64185626/angular-testing-get-html-element-inside-child-component-that-uses-ng-content/64194472#64194472)
 - [Answer by IAfanasov for how to unit test for the given code angular 8](https://stackoverflow.com/questions/63916283/how-to-unit-test-for-the-given-code-angular-8/63916435#63916435)
 - [Answer by IAfanasov for Why I can't prevent that the user edit a PrimeNG form field value?](https://stackoverflow.com/questions/63883048/why-i-cant-prevent-that-the-user-edit-a-primeng-form-field-value/63885051#63885051)
 - [Answer by IAfanasov for How to call describe or it function in afterEach function in jasmine](https://stackoverflow.com/questions/63663643/how-to-call-describe-or-it-function-in-aftereach-function-in-jasmine/63665198#63665198)
 - [Answer by IAfanasov for PrimeNG pie chart randomly displays, and displays on change of resolution](https://stackoverflow.com/questions/63517675/primeng-pie-chart-randomly-displays-and-displays-on-change-of-resolution/63518423#63518423)
-- [Answer by IAfanasov for Angular, how to subscribe nested JSON object?](https://stackoverflow.com/questions/63504426/angular-how-to-subscribe-nested-json-object/63504532#63504532)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
