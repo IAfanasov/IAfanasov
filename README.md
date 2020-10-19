@@ -5,6 +5,7 @@
 
 ### My newest blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mobiquity’s proven practices to help you develop and exercise unit test related skills](https://medium.com/@igorafanasov/mobiquitys-proven-practices-to-help-you-develop-and-exercise-unit-test-related-skills-c9134fac35e1?source=rss-fe4bb573648b------2)
 - [Minimum Efforts Web Accessibility for Developers](https://itnext.io/minimum-efforts-web-accessibility-for-developers-9bca02dd63ff?source=rss-fe4bb573648b------2)
 - [Testing Angular HTTP Communication](https://itnext.io/testing-angular-http-communication-9a120a10da18?source=rss-fe4bb573648b------2)
 - [My short journey from TypeScript to JavaScript with JSDoc and back](https://medium.com/@igorafanasov/my-short-journey-from-typescript-to-javascript-with-jsdoc-and-back-c9ddc0471b5a?source=rss-fe4bb573648b------2)
