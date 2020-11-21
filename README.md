@@ -17,7 +17,7 @@
 - [Answer by IAfanasov for Separate each character with a dot in css](https://stackoverflow.com/questions/64261895/separate-each-character-with-a-dot-in-css/64262084#64262084)
 - [Answer by IAfanasov for Angular Styles are not applying to renderer2 created elements](https://stackoverflow.com/questions/64261787/angular-styles-are-not-applying-to-renderer2-created-elements/64261862#64261862)
 - [Answer by IAfanasov for Angular Testing: Get HTML Element inside child component that uses ng-content](https://stackoverflow.com/questions/64185626/angular-testing-get-html-element-inside-child-component-that-uses-ng-content/64194472#64194472)
-- [Answer by IAfanasov for how to unit test for the given code angular 8](https://stackoverflow.com/questions/63916283/how-to-unit-test-for-the-given-code-angular-8/63916435#63916435)
+- [Answer by IAfanasov for How to unit test for the given code in Angular 8](https://stackoverflow.com/questions/63916283/how-to-unit-test-for-the-given-code-in-angular-8/63916435#63916435)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
