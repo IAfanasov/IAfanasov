@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for Bootstrap modal DOM element not available in Angular unit test](https://stackoverflow.com/questions/65581410/bootstrap-modal-dom-element-not-available-in-angular-unit-test/65591875#65591875)
 - [Answer by IAfanasov for How to get rid off default classes applied by ngbootstrap](https://stackoverflow.com/questions/64562481/how-to-get-rid-off-default-classes-applied-by-ngbootstrap/64591315#64591315)
 - [Answer by IAfanasov for Separate each character with a dot in css](https://stackoverflow.com/questions/64261895/separate-each-character-with-a-dot-in-css/64262084#64262084)
 - [Answer by IAfanasov for Angular Styles are not applying to renderer2 created elements](https://stackoverflow.com/questions/64261787/angular-styles-are-not-applying-to-renderer2-created-elements/64261862#64261862)
 - [Answer by IAfanasov for Angular Testing: Get HTML Element inside child component that uses ng-content](https://stackoverflow.com/questions/64185626/angular-testing-get-html-element-inside-child-component-that-uses-ng-content/64194472#64194472)
-- [Answer by IAfanasov for How to unit test for the given code in Angular 8](https://stackoverflow.com/questions/63916283/how-to-unit-test-for-the-given-code-in-angular-8/63916435#63916435)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
