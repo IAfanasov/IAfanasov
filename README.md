@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for Angular: how to prevent removal of child route's path from url when clicking on the already-selected parent](https://stackoverflow.com/questions/66379582/angular-how-to-prevent-removal-of-child-routes-path-from-url-when-clicking-on/66406858#66406858)
 - [Answer by IAfanasov for Bootstrap modal DOM element not available in Angular unit test](https://stackoverflow.com/questions/65581410/bootstrap-modal-dom-element-not-available-in-angular-unit-test/65591875#65591875)
 - [Answer by IAfanasov for How to get rid off default classes applied by ngbootstrap](https://stackoverflow.com/questions/64562481/how-to-get-rid-off-default-classes-applied-by-ngbootstrap/64591315#64591315)
 - [Answer by IAfanasov for Separate each character with a dot in css](https://stackoverflow.com/questions/64261895/separate-each-character-with-a-dot-in-css/64262084#64262084)
 - [Answer by IAfanasov for Angular Styles are not applying to renderer2 created elements](https://stackoverflow.com/questions/64261787/angular-styles-are-not-applying-to-renderer2-created-elements/64261862#64261862)
-- [Answer by IAfanasov for Angular Testing: Get HTML Element inside child component that uses ng-content](https://stackoverflow.com/questions/64185626/angular-testing-get-html-element-inside-child-component-that-uses-ng-content/64194472#64194472)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
