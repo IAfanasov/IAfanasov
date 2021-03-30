@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for What is the preferred way of putting and if condition in a try catch block?](https://stackoverflow.com/questions/66856059/what-is-the-preferred-way-of-putting-and-if-condition-in-a-try-catch-block/66866403#66866403)
 - [Answer by IAfanasov for Angular expand/collapsible table Row - using ng-bootstrap](https://stackoverflow.com/questions/66658693/angular-expand-collapsible-table-row-using-ng-bootstrap/66687441#66687441)
 - [Answer by IAfanasov for Angular NgFor collapse data inside TR](https://stackoverflow.com/questions/66630975/angular-ngfor-collapse-data-inside-tr/66633298#66633298)
 - [Answer by IAfanasov for Turn off ng-bootstrap animations for all unit tests](https://stackoverflow.com/questions/66602163/turn-off-ng-bootstrap-animations-for-all-unit-tests/66612123#66612123)
 - [Answer by IAfanasov for Reuse custom directive to make sortable table in Angular Bootstrap](https://stackoverflow.com/questions/66478836/reuse-custom-directive-to-make-sortable-table-in-angular-bootstrap/66514863#66514863)
-- [Answer by IAfanasov for Angular: how to prevent removal of child route's path from url when clicking on the already-selected parent](https://stackoverflow.com/questions/66379582/angular-how-to-prevent-removal-of-child-routes-path-from-url-when-clicking-on/66406858#66406858)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
