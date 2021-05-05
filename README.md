@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for How to test a component with subscription](https://stackoverflow.com/questions/67396481/how-to-test-a-component-with-subscription/67396608#67396608)
 - [Answer by IAfanasov for How to get the open/closed status of an ngb-accordion](https://stackoverflow.com/questions/67316816/how-to-get-the-open-closed-status-of-an-ngb-accordion/67364966#67364966)
 - [Answer by IAfanasov for ngx-bootstrap - Accordion group within Child Component](https://stackoverflow.com/questions/66923892/ngx-bootstrap-accordion-group-within-child-component/66991037#66991037)
 - [Answer by IAfanasov for What is the preferred way of putting and if condition in a try catch block?](https://stackoverflow.com/questions/66856059/what-is-the-preferred-way-of-putting-and-if-condition-in-a-try-catch-block/66866403#66866403)
 - [Answer by IAfanasov for Angular expand/collapsible table Row - using ng-bootstrap](https://stackoverflow.com/questions/66658693/angular-expand-collapsible-table-row-using-ng-bootstrap/66687441#66687441)
-- [Answer by IAfanasov for Angular NgFor collapse data inside TR](https://stackoverflow.com/questions/66630975/angular-ngfor-collapse-data-inside-tr/66633298#66633298)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
