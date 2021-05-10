@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for Angular Material Accordion opening on outside click problem](https://stackoverflow.com/questions/67466503/angular-material-accordion-opening-on-outside-click-problem/67466605#67466605)
 - [Answer by IAfanasov for How can I adjust week numbering in Angular Bootstrap Datepicker?](https://stackoverflow.com/questions/67440567/how-can-i-adjust-week-numbering-in-angular-bootstrap-datepicker/67466109#67466109)
 - [Answer by IAfanasov for rateChange on ngb-raring fired while page is on initialization](https://stackoverflow.com/questions/67453351/ratechange-on-ngb-raring-fired-while-page-is-on-initialization/67465898#67465898)
 - [Answer by IAfanasov for How to test a component with subscription](https://stackoverflow.com/questions/67396481/how-to-test-a-component-with-subscription/67396608#67396608)
 - [Answer by IAfanasov for How to get the open/closed status of an ngb-accordion](https://stackoverflow.com/questions/67316816/how-to-get-the-open-closed-status-of-an-ngb-accordion/67364966#67364966)
-- [Answer by IAfanasov for ngx-bootstrap - Accordion group within Child Component](https://stackoverflow.com/questions/66923892/ngx-bootstrap-accordion-group-within-child-component/66991037#66991037)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
