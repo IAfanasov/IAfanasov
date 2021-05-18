@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for How to target multiple browsers in Angular 11 project using scss](https://stackoverflow.com/questions/67573257/how-to-target-multiple-browsers-in-angular-11-project-using-scss/67586721#67586721)
+- [Answer by IAfanasov for Preventing JQuery default behavior in Angular 11 app](https://stackoverflow.com/questions/67576860/preventing-jquery-default-behavior-in-angular-11-app/67586643#67586643)
+- [Answer by IAfanasov for getting error content-security-policy error: refused to create worker](https://stackoverflow.com/questions/67561517/getting-error-content-security-policy-error-refused-to-create-worker/67586459#67586459)
+- [Answer by IAfanasov for How to fix maximum call stack size exceeded error in angular 11?](https://stackoverflow.com/questions/67586078/how-to-fix-maximum-call-stack-size-exceeded-error-in-angular-11/67586231#67586231)
 - [Answer by IAfanasov for Angular how can I add paginaton in a custom table](https://stackoverflow.com/questions/67584831/angular-how-can-i-add-paginaton-in-a-custom-table/67584920#67584920)
-- [Answer by IAfanasov for Bootstrap 4 vertical dynamic menu in Angular](https://stackoverflow.com/questions/67584680/bootstrap-4-vertical-dynamic-menu-in-angular/67584795#67584795)
-- [Answer by IAfanasov for Angular web application codebase for mobile apps?](https://stackoverflow.com/questions/67583705/angular-web-application-codebase-for-mobile-apps/67584677#67584677)
-- [Answer by IAfanasov for Angular Material Accordion opening on outside click problem](https://stackoverflow.com/questions/67466503/angular-material-accordion-opening-on-outside-click-problem/67466605#67466605)
-- [Answer by IAfanasov for How can I adjust week numbering in Angular Bootstrap Datepicker?](https://stackoverflow.com/questions/67440567/how-can-i-adjust-week-numbering-in-angular-bootstrap-datepicker/67466109#67466109)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
