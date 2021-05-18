@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for Angular how can I add paginaton in a custom table](https://stackoverflow.com/questions/67584831/angular-how-can-i-add-paginaton-in-a-custom-table/67584920#67584920)
+- [Answer by IAfanasov for Bootstrap 4 vertical dynamic menu in Angular](https://stackoverflow.com/questions/67584680/bootstrap-4-vertical-dynamic-menu-in-angular/67584795#67584795)
+- [Answer by IAfanasov for Angular web application codebase for mobile apps?](https://stackoverflow.com/questions/67583705/angular-web-application-codebase-for-mobile-apps/67584677#67584677)
 - [Answer by IAfanasov for Angular Material Accordion opening on outside click problem](https://stackoverflow.com/questions/67466503/angular-material-accordion-opening-on-outside-click-problem/67466605#67466605)
 - [Answer by IAfanasov for How can I adjust week numbering in Angular Bootstrap Datepicker?](https://stackoverflow.com/questions/67440567/how-can-i-adjust-week-numbering-in-angular-bootstrap-datepicker/67466109#67466109)
-- [Answer by IAfanasov for rateChange on ngb-raring fired while page is on initialization](https://stackoverflow.com/questions/67453351/ratechange-on-ngb-raring-fired-while-page-is-on-initialization/67465898#67465898)
-- [Answer by IAfanasov for How to test a component with subscription](https://stackoverflow.com/questions/67396481/how-to-test-a-component-with-subscription/67396608#67396608)
-- [Answer by IAfanasov for How to get the open/closed status of an ngb-accordion](https://stackoverflow.com/questions/67316816/how-to-get-the-open-closed-status-of-an-ngb-accordion/67364966#67364966)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
