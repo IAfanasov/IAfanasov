@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for ngFor limit rows](https://stackoverflow.com/questions/67599499/ngfor-limit-rows/67601224#67601224)
+- [Answer by IAfanasov for ngx-translate with Angular universal has problems translating parameterised value](https://stackoverflow.com/questions/67599890/ngx-translate-with-angular-universal-has-problems-translating-parameterised-valu/67601089#67601089)
+- [Answer by IAfanasov for Setting the `type` of @Input at runtime : Angular & typescript](https://stackoverflow.com/questions/67600962/setting-the-type-of-input-at-runtime-angular-typescript/67601024#67601024)
 - [Answer by IAfanasov for How to get rid of __zone_symbol__value from returning value from API call?](https://stackoverflow.com/questions/67599511/how-to-get-rid-of-zone-symbol-value-from-returning-value-from-api-call/67599640#67599640)
 - [Answer by IAfanasov for RxJs 2 Observables: Take first one$ else second$ if empty](https://stackoverflow.com/questions/67592695/rxjs-2-observables-take-first-one-else-second-if-empty/67592839#67592839)
-- [Answer by IAfanasov for Variables defined in describe is "undefined" in outer functions in angular test (jest/jasmine)](https://stackoverflow.com/questions/67588525/variables-defined-in-describe-is-undefined-in-outer-functions-in-angular-test/67592777#67592777)
-- [Answer by IAfanasov for Passing an optional function to a component best practice](https://stackoverflow.com/questions/67589433/passing-an-optional-function-to-a-component-best-practice/67592574#67592574)
-- [Answer by IAfanasov for Refused to apply style from styles.css' because its MIME type ('text/html') is not a supported stylesheet when reloading specific route](https://stackoverflow.com/questions/67592245/refused-to-apply-style-from-styles-css-because-its-mime-type-text-html-is-n/67592328#67592328)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
