@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for ngb time picker issue with the up and down arrows](https://stackoverflow.com/questions/67635886/ngb-time-picker-issue-with-the-up-and-down-arrows/67667260#67667260)
+- [Answer by IAfanasov for NgbModal's @Input and local variable](https://stackoverflow.com/questions/67628801/ngbmodals-input-and-local-variable/67667170#67667170)
 - [Answer by IAfanasov for Uncaught (in promise): [object Window] at resolvePromise](https://stackoverflow.com/questions/67601248/uncaught-in-promise-object-window-at-resolvepromise/67601322#67601322)
 - [Answer by IAfanasov for ngFor limit rows](https://stackoverflow.com/questions/67599499/ngfor-limit-rows/67601224#67601224)
 - [Answer by IAfanasov for ngx-translate with Angular universal has problems translating parameterised value](https://stackoverflow.com/questions/67599890/ngx-translate-with-angular-universal-has-problems-translating-parameterised-valu/67601089#67601089)
-- [Answer by IAfanasov for Setting the `type` of @Input at runtime : Angular & typescript](https://stackoverflow.com/questions/67600962/setting-the-type-of-input-at-runtime-angular-typescript/67601024#67601024)
-- [Answer by IAfanasov for How to get rid of __zone_symbol__value from returning value from API call?](https://stackoverflow.com/questions/67599511/how-to-get-rid-of-zone-symbol-value-from-returning-value-from-api-call/67599640#67599640)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
