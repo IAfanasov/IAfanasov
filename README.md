@@ -15,7 +15,7 @@
 <!-- STACKOVERFLOW:START -->
 - [Answer by IAfanasov for what is har-validator and how can i resolve this](https://stackoverflow.com/questions/67776120/what-is-har-validator-and-how-can-i-resolve-this/67778937#67778937)
 - [Answer by IAfanasov for How to generate and post .xlsx file to web api using Angular 2? Without downloading this file on local computer](https://stackoverflow.com/questions/67759071/how-to-generate-and-post-xlsx-file-to-web-api-using-angular-2-without-download/67759488#67759488)
-- [Answer by IAfanasov for Angular 6 - Revert react form fields changed values on submit](https://stackoverflow.com/questions/67759081/angular-6-revert-react-form-fields-changed-values-on-submit/67759449#67759449)
+- [Answer by IAfanasov for Angular 6 - Revert form fields changed values on submit](https://stackoverflow.com/questions/67759081/angular-6-revert-form-fields-changed-values-on-submit/67759449#67759449)
 - [Answer by IAfanasov for Is there any syntax checker for Javascript (not IntelliSense)?](https://stackoverflow.com/questions/67672166/is-there-any-syntax-checker-for-javascript-not-intellisense/67672184#67672184)
 - [Answer by IAfanasov for how to display certain properties in objects, as above? javascript](https://stackoverflow.com/questions/67671411/how-to-display-certain-properties-in-objects-as-above-javascript/67671472#67671472)
 <!-- STACKOVERFLOW:END -->
