@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for How to effectively traverse angular code in visual studio code](https://stackoverflow.com/questions/68015536/how-to-effectively-traverse-angular-code-in-visual-studio-code/68015835#68015835)
 - [Answer by IAfanasov for IONIC IOS: List simulator targets Running command: xcrun simctl list --json Select last emulator from list as default](https://stackoverflow.com/questions/67942252/ionic-ios-list-simulator-targets-running-command-xcrun-simctl-list-json-sele/67942339#67942339)
 - [Answer by IAfanasov for Angular: <ol> added by document.execCommand sees only css rules in styles.css but not in the component's css](https://stackoverflow.com/questions/67941142/angular-ol-added-by-document-execcommand-sees-only-css-rules-in-styles-css-bu/67941861#67941861)
 - [Answer by IAfanasov for No value accessor for form control with name 'startTime' and 'endTime'](https://stackoverflow.com/questions/67785974/no-value-accessor-for-form-control-with-name-starttime-and-endtime/67788571#67788571)
 - [Answer by IAfanasov for Cannot read property 'title' of undefined MEAN app](https://stackoverflow.com/questions/67788099/cannot-read-property-title-of-undefined-mean-app/67788232#67788232)
-- [Answer by IAfanasov for Angular How Can I add Multiple Objects instead of overwriting to localStorage](https://stackoverflow.com/questions/67787202/angular-how-can-i-add-multiple-objects-instead-of-overwriting-to-localstorage/67787363#67787363)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
