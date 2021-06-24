@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for How to get ngModel from a custom component?](https://stackoverflow.com/questions/68112517/how-to-get-ngmodel-from-a-custom-component/68113016#68113016)
+- [Answer by IAfanasov for How to mock with strict TypeScript](https://stackoverflow.com/questions/68112521/how-to-mock-with-strict-typescript/68112916#68112916)
 - [Answer by IAfanasov for why my css is not working for logout button](https://stackoverflow.com/questions/68112010/why-my-css-is-not-working-for-logout-button/68112333#68112333)
 - [Answer by IAfanasov for How to change the format of Date in Reactive Forms?](https://stackoverflow.com/questions/68068616/how-to-change-the-format-of-date-in-reactive-forms/68081562#68081562)
 - [Answer by IAfanasov for How to reset modal scroll time modal's content is updated?](https://stackoverflow.com/questions/68014752/how-to-reset-modal-scroll-time-modals-content-is-updated/68018746#68018746)
-- [Answer by IAfanasov for How to effectively traverse angular code in visual studio code](https://stackoverflow.com/questions/68015536/how-to-effectively-traverse-angular-code-in-visual-studio-code/68015835#68015835)
-- [Answer by IAfanasov for IONIC IOS: List simulator targets Running command: xcrun simctl list --json Select last emulator from list as default](https://stackoverflow.com/questions/67942252/ionic-ios-list-simulator-targets-running-command-xcrun-simctl-list-json-sele/67942339#67942339)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
