@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for Adding a new line in the table with Angular](https://stackoverflow.com/questions/68364815/adding-a-new-line-in-the-table-with-angular/68364873#68364873)
+- [Answer by IAfanasov for base 64 image undefined error when trying to perform get request with angular UI](https://stackoverflow.com/questions/68363727/base-64-image-undefined-error-when-trying-to-perform-get-request-with-angular-ui/68364752#68364752)
 - [Answer by IAfanasov for Call Web Component Function from Angular](https://stackoverflow.com/questions/68357765/call-web-component-function-from-angular/68357989#68357989)
 - [Answer by IAfanasov for How to call a method from one component to another in angular](https://stackoverflow.com/questions/68220844/how-to-call-a-method-from-one-component-to-another-in-angular/68220989#68220989)
 - [Answer by IAfanasov for Locale Date Angular 8 unable to convert](https://stackoverflow.com/questions/68206660/locale-date-angular-8-unable-to-convert/68206973#68206973)
-- [Answer by IAfanasov for Remove slide number text from top of ng carousal](https://stackoverflow.com/questions/68163223/remove-slide-number-text-from-top-of-ng-carousal/68181681#68181681)
-- [Answer by IAfanasov for How do I access a nested object in Angular?](https://stackoverflow.com/questions/68116941/how-do-i-access-a-nested-object-in-angular/68117037#68117037)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
