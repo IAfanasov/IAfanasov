@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for ionic 4/5 using ngx-translate auto add to subtitle files in i18n](https://stackoverflow.com/questions/68390325/ionic-4-5-using-ngx-translate-auto-add-to-subtitle-files-in-i18n/68390487#68390487)
 - [Answer by IAfanasov for Pass a variable from one angular application to another](https://stackoverflow.com/questions/68377464/pass-a-variable-from-one-angular-application-to-another/68378017#68378017)
 - [Answer by IAfanasov for ngb Dropdown - Scroll to Active Item](https://stackoverflow.com/questions/68374865/ngb-dropdown-scroll-to-active-item/68375473#68375473)
 - [Answer by IAfanasov for Trying to reproduce the same predefined uppercase function using custom pipe ---> Getting this error in console](https://stackoverflow.com/questions/68372340/trying-to-reproduce-the-same-predefined-uppercase-function-using-custom-pipe/68374104#68374104)
 - [Answer by IAfanasov for Adding a new line in the table with Angular](https://stackoverflow.com/questions/68364815/adding-a-new-line-in-the-table-with-angular/68364873#68364873)
-- [Answer by IAfanasov for base 64 image undefined error when trying to perform get request with angular UI](https://stackoverflow.com/questions/68363727/base-64-image-undefined-error-when-trying-to-perform-get-request-with-angular-ui/68364752#68364752)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
