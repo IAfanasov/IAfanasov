@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for Spy on the result of an Observable Subscription with Jasmine](https://stackoverflow.com/questions/43135596/spy-on-the-result-of-an-observable-subscription-with-jasmine/68418900#68418900)
+- [Answer by IAfanasov for Unit test a method called from a method](https://stackoverflow.com/questions/68271135/unit-test-a-method-called-from-a-method/68418754#68418754)
 - [Answer by IAfanasov for Unit testing with Angular: how to test changes on parent to child](https://stackoverflow.com/questions/68330614/unit-testing-with-angular-how-to-test-changes-on-parent-to-child/68418646#68418646)
 - [Answer by IAfanasov for Unit testing of catcherror pipe function in angular service](https://stackoverflow.com/questions/68379204/unit-testing-of-catcherror-pipe-function-in-angular-service/68418525#68418525)
 - [Answer by IAfanasov for Angular: unit test varibles in subscribe](https://stackoverflow.com/questions/68394061/angular-unit-test-varibles-in-subscribe/68418436#68418436)
-- [Answer by IAfanasov for Unit Test for setTimeOut in Angular](https://stackoverflow.com/questions/68417728/unit-test-for-settimeout-in-angular/68418166#68418166)
-- [Answer by IAfanasov for Karma-Jasmine Testing register form in Angular template driven forms](https://stackoverflow.com/questions/68400379/karma-jasmine-testing-register-form-in-angular-template-driven-forms/68412248#68412248)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
