@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for Angular 5 : rest api is not working with httpclient](https://stackoverflow.com/questions/68465283/angular-5-rest-api-is-not-working-with-httpclient/68465307#68465307)
 - [Answer by IAfanasov for Angular Form Array access static data](https://stackoverflow.com/questions/68457749/angular-form-array-access-static-data/68458236#68458236)
 - [Answer by IAfanasov for Load Angular components/Modules in aspx page](https://stackoverflow.com/questions/68436620/load-angular-components-modules-in-aspx-page/68436672#68436672)
 - [Answer by IAfanasov for Spy on the result of an Observable Subscription with Jasmine](https://stackoverflow.com/questions/43135596/spy-on-the-result-of-an-observable-subscription-with-jasmine/68418900#68418900)
 - [Answer by IAfanasov for Unit test a method called from a method](https://stackoverflow.com/questions/68271135/unit-test-a-method-called-from-a-method/68418754#68418754)
-- [Answer by IAfanasov for Unit testing with Angular: how to test changes on parent to child](https://stackoverflow.com/questions/68330614/unit-testing-with-angular-how-to-test-changes-on-parent-to-child/68418646#68418646)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
