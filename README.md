@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for Error: Can't resolve all parameters for ActivatedRoute: (?, ?, ?, ?, ?, ?, ?, ?)](https://stackoverflow.com/questions/68501142/error-cant-resolve-all-parameters-for-activatedroute/68501247#68501247)
 - [Answer by IAfanasov for Ngb rating max value dyamic change is not reflected in stars length](https://stackoverflow.com/questions/68497178/ngb-rating-max-value-dyamic-change-is-not-reflected-in-stars-length/68500443#68500443)
 - [Answer by IAfanasov for Property 'title' does not exist on type 'never'](https://stackoverflow.com/questions/68484039/property-title-does-not-exist-on-type-never/68500056#68500056)
 - [Answer by IAfanasov for 'e-columns' is not a known element:](https://stackoverflow.com/questions/64139838/e-columns-is-not-a-known-element/68485972#68485972)
 - [Answer by IAfanasov for How to round of decimal numbers and get exact sum if added?](https://stackoverflow.com/questions/68482512/how-to-round-of-decimal-numbers-and-get-exact-sum-if-added/68482567#68482567)
-- [Answer by IAfanasov for Angular: List / Form module](https://stackoverflow.com/questions/68479278/angular-list-form-module/68480921#68480921)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
