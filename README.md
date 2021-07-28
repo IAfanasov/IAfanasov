@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for Angular equivalent of JQuery selectors](https://stackoverflow.com/questions/68558019/angular-equivalent-of-jquery-selectors/68558227#68558227)
 - [Answer by IAfanasov for How to Unit Test MatBottomSheet](https://stackoverflow.com/questions/68541162/how-to-unit-test-matbottomsheet/68545073#68545073)
 - [Answer by IAfanasov for ERROR TypeError: a.getCountryCodeOrDefault is not a function](https://stackoverflow.com/questions/68539727/error-typeerror-a-getcountrycodeordefault-is-not-a-function/68540472#68540472)
 - [Answer by IAfanasov for bootstrap-star-rating V4.1.0 not working with Angular](https://stackoverflow.com/questions/68531118/bootstrap-star-rating-v4-1-0-not-working-with-angular/68532446#68532446)
 - [Answer by IAfanasov for How do I create a map from a class in order to extract its properties as values?](https://stackoverflow.com/questions/68529892/how-do-i-create-a-map-from-a-class-in-order-to-extract-its-properties-as-values/68530023#68530023)
-- [Answer by IAfanasov for Handle different dataSources with only one material table component](https://stackoverflow.com/questions/68499055/handle-different-datasources-with-only-one-material-table-component/68501440#68501440)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
