@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for How to mock a response from MatDialog sent from afterClosed in Angular unit tests?](https://stackoverflow.com/questions/68571355/how-to-mock-a-response-from-matdialog-sent-from-afterclosed-in-angular-unit-test/68608514#68608514)
+- [Answer by IAfanasov for testing an angular service without an application](https://stackoverflow.com/questions/68605763/testing-an-angular-service-without-an-application/68608467#68608467)
 - [Answer by IAfanasov for How to encpsulate components (toolbars) content to prevent the component (toolbar) becomes a monolith?](https://stackoverflow.com/questions/68591059/how-to-encpsulate-components-toolbars-content-to-prevent-the-component-toolba/68592211#68592211)
 - [Answer by IAfanasov for How can I make [attr.src] work in angular 9?](https://stackoverflow.com/questions/68590377/how-can-i-make-attr-src-work-in-angular-9/68590493#68590493)
 - [Answer by IAfanasov for Angular 8: Is it possible to create only one instance of services inside shared module](https://stackoverflow.com/questions/68586705/angular-8-is-it-possible-to-create-only-one-instance-of-services-inside-shared/68586743#68586743)
-- [Answer by IAfanasov for Angular equivalent of JQuery selectors](https://stackoverflow.com/questions/68558019/angular-equivalent-of-jquery-selectors/68558227#68558227)
-- [Answer by IAfanasov for How to Unit Test MatBottomSheet](https://stackoverflow.com/questions/68541162/how-to-unit-test-matbottomsheet/68545073#68545073)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
