@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for Updating version number in multiple places before release](https://stackoverflow.com/questions/68635797/updating-version-number-in-multiple-places-before-release/68636003#68636003)
 - [Answer by IAfanasov for Get column index in table header row in Angular directive](https://stackoverflow.com/questions/68632383/get-column-index-in-table-header-row-in-angular-directive/68633696#68633696)
 - [Answer by IAfanasov for activatedRoute returning empty object](https://stackoverflow.com/questions/68631543/activatedroute-returning-empty-object/68631757#68631757)
 - [Answer by IAfanasov for viewchild nativeElement is undefined if content is wrapped up with ngif](https://stackoverflow.com/questions/68624678/viewchild-nativeelement-is-undefined-if-content-is-wrapped-up-with-ngif/68624819#68624819)
 - [Answer by IAfanasov for How to mock a response from MatDialog sent from afterClosed in Angular unit tests?](https://stackoverflow.com/questions/68571355/how-to-mock-a-response-from-matdialog-sent-from-afterclosed-in-angular-unit-test/68608514#68608514)
-- [Answer by IAfanasov for testing an angular service without an application](https://stackoverflow.com/questions/68605763/testing-an-angular-service-without-an-application/68608467#68608467)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
