@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for Ng bootstrap radio buttons](https://stackoverflow.com/questions/68678749/ng-bootstrap-radio-buttons/68679576#68679576)
 - [How to test if the correct data passed to projection (ng-content)?](https://stackoverflow.com/questions/68664179/how-to-test-if-the-correct-data-passed-to-projection-ng-content)
 - [Answer by IAfanasov for Custom component FormControl pass value to parent component](https://stackoverflow.com/questions/68659172/custom-component-formcontrol-pass-value-to-parent-component/68662173#68662173)
 - [Answer by IAfanasov for Why tick() doesn't work int this unit test](https://stackoverflow.com/questions/68646703/why-tick-doesnt-work-int-this-unit-test/68647397#68647397)
 - [Answer by IAfanasov for change number from json to text if condition](https://stackoverflow.com/questions/68638591/change-number-from-json-to-text-if-condition/68638681#68638681)
-- [Answer by IAfanasov for Angular - How to Trigger mat-error automatically](https://stackoverflow.com/questions/68638445/angular-how-to-trigger-mat-error-automatically/68638526#68638526)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
