@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for Pass nested JSON object in JSON object as string using Angular](https://stackoverflow.com/questions/68753461/pass-nested-json-object-in-json-object-as-string-using-angular/68753522#68753522)
 - [Answer by IAfanasov for Ionic 5, ngModel not work as excepted on array model](https://stackoverflow.com/questions/68737664/ionic-5-ngmodel-not-work-as-excepted-on-array-model/68737834#68737834)
 - [Answer by IAfanasov for Angular Input box value input restrictions](https://stackoverflow.com/questions/68737440/angular-input-box-value-input-restrictions/68737606#68737606)
 - [Answer by IAfanasov for A way to render a div block in Angular unit testt](https://stackoverflow.com/questions/68729253/a-way-to-render-a-div-block-in-angular-unit-testt/68737583#68737583)
 - [Answer by IAfanasov for Display cross field custom validation error message](https://stackoverflow.com/questions/68724286/display-cross-field-custom-validation-error-message/68724580#68724580)
-- [Answer by IAfanasov for Is it possible to add two selectors for one component in angular?](https://stackoverflow.com/questions/68723776/is-it-possible-to-add-two-selectors-for-one-component-in-angular/68724289#68724289)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
