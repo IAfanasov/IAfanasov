@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for Can't bind to 'routerLink' since it isn't a known property even after importing RouterModule](https://stackoverflow.com/questions/68770399/cant-bind-to-routerlink-since-it-isnt-a-known-property-even-after-importing/68771433#68771433)
 - [Answer by IAfanasov for How to solve issue when text input loses focus after typing one character in Angular](https://stackoverflow.com/questions/68769332/how-to-solve-issue-when-text-input-loses-focus-after-typing-one-character-in-ang/68769448#68769448)
 - [Answer by IAfanasov for Why kendo autocomplete shows [object Object]](https://stackoverflow.com/questions/68759914/why-kendo-autocomplete-shows-object-object/68760192#68760192)
 - [Answer by IAfanasov for Pass nested JSON object in JSON object as string using Angular](https://stackoverflow.com/questions/68753461/pass-nested-json-object-in-json-object-as-string-using-angular/68753522#68753522)
 - [Answer by IAfanasov for Ionic 5, ngModel not work as excepted on array model](https://stackoverflow.com/questions/68737664/ionic-5-ngmodel-not-work-as-excepted-on-array-model/68737834#68737834)
-- [Answer by IAfanasov for Angular Input box value input restrictions](https://stackoverflow.com/questions/68737440/angular-input-box-value-input-restrictions/68737606#68737606)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
