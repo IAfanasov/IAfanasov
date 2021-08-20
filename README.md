@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for Jasmine spyOn function within function and return mock value from last fn call](https://stackoverflow.com/questions/68863686/jasmine-spyon-function-within-function-and-return-mock-value-from-last-fn-call/68864027#68864027)
+- [Answer by IAfanasov for How I can deselect button in angular?](https://stackoverflow.com/questions/68863769/how-i-can-deselect-button-in-angular/68863955#68863955)
 - [Answer by IAfanasov for How to allow iPhone auto lock when the app is installed using xcode?](https://stackoverflow.com/questions/68815416/how-to-allow-iphone-auto-lock-when-the-app-is-installed-using-xcode/68816673#68816673)
 - [How to allow iPhone auto lock when the app is installed using xcode?](https://stackoverflow.com/questions/68815416/how-to-allow-iphone-auto-lock-when-the-app-is-installed-using-xcode)
 - [Answer by IAfanasov for How to unit test ion-picker with angular](https://stackoverflow.com/questions/68809357/how-to-unit-test-ion-picker-with-angular/68815046#68815046)
-- [Answer by IAfanasov for Inactive tab validation in ngbNav](https://stackoverflow.com/questions/68772044/inactive-tab-validation-in-ngbnav/68813363#68813363)
-- [Answer by IAfanasov for How to bind datepicker to ngmodel](https://stackoverflow.com/questions/68800581/how-to-bind-datepicker-to-ngmodel/68800763#68800763)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
