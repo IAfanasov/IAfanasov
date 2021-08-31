@@ -13,11 +13,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for Get "Real Objects" (fields and methods) from Rest Request with Angular HttpClient](https://stackoverflow.com/questions/68999103/get-real-objects-fields-and-methods-from-rest-request-with-angular-httpclien/68999233#68999233)
 - [Answer by IAfanasov for Angular Testbed: avoid module setup in each test module](https://stackoverflow.com/questions/68981067/angular-testbed-avoid-module-setup-in-each-test-module/68986635#68986635)
 - [Answer by IAfanasov for Remove initial text from ngb-timepicker](https://stackoverflow.com/questions/68964637/remove-initial-text-from-ngb-timepicker/68986492#68986492)
 - [Answer by IAfanasov for How to return a value from an Observable?](https://stackoverflow.com/questions/68895246/how-to-return-a-value-from-an-observable/68895437#68895437)
 - [Answer by IAfanasov for Jasmine spyOn function within function and return mock value from last fn call](https://stackoverflow.com/questions/68863686/jasmine-spyon-function-within-function-and-return-mock-value-from-last-fn-call/68864027#68864027)
-- [Answer by IAfanasov for How I can deselect button in angular?](https://stackoverflow.com/questions/68863769/how-i-can-deselect-button-in-angular/68863955#68863955)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
