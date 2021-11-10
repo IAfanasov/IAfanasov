@@ -5,7 +5,7 @@
 
 ### My newest blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Unstable unit tests? Avoid state modification!](https://medium.com/@igorafanasov/unstable-unit-tests-avoid-state-modification-b944f88f7948?source=rss-fe4bb573648b------2)
+- [Unstable unit tests? Avoid state modification!](https://itnext.io/unstable-unit-tests-avoid-state-modification-b944f88f7948?source=rss-fe4bb573648b------2)
 - [Proven practices to help you develop and exercise unit test related skills](https://itnext.io/mobiquitys-proven-practices-to-help-you-develop-and-exercise-unit-test-related-skills-c9134fac35e1?source=rss-fe4bb573648b------2)
 - [Minimum Efforts Web Accessibility for Developers](https://itnext.io/minimum-efforts-web-accessibility-for-developers-9bca02dd63ff?source=rss-fe4bb573648b------2)
 - [Testing Angular HTTP Communication](https://itnext.io/testing-angular-http-communication-9a120a10da18?source=rss-fe4bb573648b------2)
