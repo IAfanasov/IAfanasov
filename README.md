@@ -14,11 +14,11 @@
 
 ### My latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by IAfanasov for Ng bootstrap does not install on angular 13](https://stackoverflow.com/questions/69944590/ng-bootstrap-does-not-install-on-angular-13/69961820#69961820)
 - [Answer by IAfanasov for Using ng-bootstrap 11.0.0-beta.x with Angular 13 rc](https://stackoverflow.com/questions/69803892/using-ng-bootstrap-11-0-0-beta-x-with-angular-13-rc/69808737#69808737)
 - [Answer by IAfanasov for Get &quot;Real Objects&quot; &lpar;fields and methods&rpar; from Rest Request with Angular HttpClient](https://stackoverflow.com/questions/68999103/get-real-objects-fields-and-methods-from-rest-request-with-angular-httpclien/68999233#68999233)
 - [Answer by IAfanasov for Angular Testbed: avoid module setup in each test module](https://stackoverflow.com/questions/68981067/angular-testbed-avoid-module-setup-in-each-test-module/68986635#68986635)
 - [Answer by IAfanasov for Remove initial text from ngb-timepicker](https://stackoverflow.com/questions/68964637/remove-initial-text-from-ngb-timepicker/68986492#68986492)
-- [Answer by IAfanasov for How to return a value from an Observable?](https://stackoverflow.com/questions/68895246/how-to-return-a-value-from-an-observable/68895437#68895437)
 <!-- STACKOVERFLOW:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
