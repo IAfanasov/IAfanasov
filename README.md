@@ -19,8 +19,6 @@
 - [Answer by IAfanasov for Remove initial text from ngb-timepicker](https://stackoverflow.com/questions/68964637/remove-initial-text-from-ngb-timepicker/68986492#68986492)
 <!-- STACKOVERFLOW:END -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iafanasov&show_icons=true" alt="iafanasov" /></p>
-
 <p align="center">
 <a href="https://linkedin.com/in/iafanasov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iafanasov" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/iafanasov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="iafanasov" height="30" width="30" /></a>
