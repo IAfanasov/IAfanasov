@@ -26,5 +26,3 @@
 <a href="https://stackoverflow.com/users/iafanasov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="iafanasov" height="30" width="30" /></a>
 <a href="https://medium.com/@igorafanasov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@igorafanasov" height="30" width="30" /></a>
 </p>
-
-<p  align="center"> <img src="https://komarev.com/ghpvc/?username=iafanasov" alt="iafanasov" /> </p>
